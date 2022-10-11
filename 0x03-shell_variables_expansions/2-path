@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/action
+/PATH/local/$action:/PATH/local/action:/PATH/$action:/PATH/action:/$action:/action:/action
